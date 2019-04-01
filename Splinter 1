@@ -1,0 +1,7 @@
+def begin_sim():
+    print "Welcome to the football simulation game! Pick your team!."
+    team_name = str(raw_input('Choose a team'))
+
+
+
+     
